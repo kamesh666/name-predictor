@@ -83,7 +83,7 @@ function App() {
 
         {/* card body Start */}
           <div className="card-body">
-           <h5 className="card-title">Card title</h5>
+           <h5 className="card-title">Predictor</h5>
            <h6>Your Name is : {name}</h6>
 
            <ul className="list-group">
